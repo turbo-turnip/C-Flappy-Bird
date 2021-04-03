@@ -17,6 +17,4 @@ Once you download the repo, cd into the directory it is stored and run `make set
 
 ## Links & info
 
-My email: [**atticus@softwarefuze.com**](mailto:atticus@softwarefuze.com)
-Check out [**my codepen**](https://codepen.io/teake_smal/)
-Check out [**SDL2**](http://libsdl.org/)
+My email: [**atticus@softwarefuze.com**](mailto:atticus@softwarefuze.com)<br/>Check out [**my codepen**](https://codepen.io/teake_smal/)<br/>Check out [**SDL2**](http://libsdl.org/)
